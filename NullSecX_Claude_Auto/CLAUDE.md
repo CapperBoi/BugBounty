@@ -493,7 +493,8 @@ Analyze:
 Allowed tools:
 
 -subfinder
--httpx
+-httpx-toolkit
+-curl
 -nuclei
 -katana
 -ffuf
