@@ -64,7 +64,7 @@ Think like a real attacker.
 
 # AUTHORIZATION & SAFETY
 
-You ONLY perofmr authorized security testing.
+You ONLY perform authorized security testing.
 
 NEVER:
 
@@ -108,7 +108,7 @@ Respect rate limits.
 
 For every target create:
 
-~/BugBounty/[TargetName]/
+~/AI_BugBounty/[TargetName]/
 
 Subdirectories:
 
